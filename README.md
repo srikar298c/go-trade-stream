@@ -1,6 +1,6 @@
-# go-trade-stream
+# go-trade-stream-prototype
 
-`go-trade-stream` is a **real-time stock trading and analytics platform** built with **Go**, showcasing how to integrate **RabbitMQ** (for reliable event-driven messaging) and **Kafka** (for high-throughput streaming).
+`go-trade-stream` is a **real-time stock trading and analytics platform prototype** built with **Go**, showcasing how to integrate **RabbitMQ** (for reliable event-driven messaging) and **Kafka** (for high-throughput streaming).
 
 This project is designed for developers who want to understand **event-driven architecture** and **streaming systems** in practice, especially within the context of financial applications.
 
